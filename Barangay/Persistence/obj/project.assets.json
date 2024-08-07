@@ -2772,19 +2772,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\": {}
+    "C:\\Users\\david.lopez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRACTICE_PROJECT\\Barangay\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "E:\\PRACTICE_PROJECT\\Barangay\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\",
-      "outputPath": "E:\\PRACTICE_PROJECT\\Barangay\\Persistence\\obj\\",
+      "projectPath": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\david.lopez\\.nuget\\packages\\",
+      "outputPath": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ashley.Fajardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\david.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2792,19 +2797,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://pkgs.dev.azure.com/algarinformationsystems/EverythingAtWork/_packaging/AISNetCoreFeed/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/algarinformationsystems/_packaging/algarinformationsystems/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/algarinformationsystems/_packaging/algarinformationsystems/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/algarinformationsystemsinc/_packaging/algarinformationsystemsinc/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\PRACTICE_PROJECT\\Barangay\\Application\\Application.csproj": {
-              "projectPath": "E:\\PRACTICE_PROJECT\\Barangay\\Application\\Application.csproj"
+            "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Application\\Application.csproj": {
+              "projectPath": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Application\\Application.csproj"
             },
-            "E:\\PRACTICE_PROJECT\\Barangay\\Common\\Common.csproj": {
-              "projectPath": "E:\\PRACTICE_PROJECT\\Barangay\\Common\\Common.csproj"
+            "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Common\\Common.csproj": {
+              "projectPath": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Common\\Common.csproj"
             }
           }
         }
@@ -2813,6 +2820,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2840,7 +2852,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
