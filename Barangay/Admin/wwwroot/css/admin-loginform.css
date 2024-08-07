@@ -1,0 +1,15 @@
+
+body {
+    background-color: beige;
+}
+
+.login-container{
+  background-color:white;
+  height: 70%;
+  width: 60%;
+}
+
+.login-logo{
+    height:30px;
+    width: 77px;
+}
