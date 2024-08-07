@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAx5//i2li249OP5TzcXbHXTJ49/aLQ9LhXI25mINZSrDdtU3fJRy68dacu/Hz3eXJdbt8aCseIVjEbeYhs90w==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE_PROJECT\\Barangay\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
