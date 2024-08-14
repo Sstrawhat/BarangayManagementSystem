@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577EA588-4041-43D8-9690-8F288259BFD0}|Admin\\Admin.csproj|d:\\practiceproject\\barangaymanagementsystem\\barangay\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{577EA588-4041-43D8-9690-8F288259BFD0}|Admin\\Admin.csproj|solutionrelative:admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577EA588-4041-43D8-9690-8F288259BFD0}|Admin\\Admin.csproj|d:\\practiceproject\\barangaymanagementsystem\\barangay\\admin\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{577EA588-4041-43D8-9690-8F288259BFD0}|Admin\\Admin.csproj|solutionrelative:admin\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Admin\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Admin\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Admin\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Admin\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-07T13:29:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PracticeProject\\BarangayManagementSystem\\Barangay\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:41:50.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
